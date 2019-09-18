@@ -10066,6 +10066,29 @@ a.text-dark:hover, a.text-dark:focus {
   /* padding: 10px; */
   border-radius: 25px;
 }
+.display_spot{ opacity: 1; }
+
+.page_active{
+  color: white;
+  opacity: 1;
+  font-weight: bold;
+}
+.page_active:hover{
+  color: white;
+  opacity: 1;
+  font-weight: bold;
+}
+.page_not_active{
+  color: white;
+  opacity: 0.5;
+  font-weight: bold;
+}
+.page_not_active:hover{
+  color: white;
+  opacity: 1;
+  font-weight: bold;
+}
+.no_opa{ opacity: 0; }
 
 .center_text{ text-align: center; }
 .bg_color{ background-color: #313538; }
